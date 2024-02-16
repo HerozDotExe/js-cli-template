@@ -1,5 +1,5 @@
 # js-cli-template
-This projet is a template for making cli in javascript with nodejs, [nexe](https://github.com/nexe/nexe), [rollup](https://rollupjs.org) and [ink](https://github.com/vadimdemedes/ink).
+This project is a template for making cli in javascript with nodejs, [nexe](https://github.com/nexe/nexe), [rollup](https://rollupjs.org) and [ink](https://github.com/vadimdemedes/ink).
 
 ## How to use
 First, install dependencies :
