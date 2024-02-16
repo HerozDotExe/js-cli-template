@@ -1,0 +1,45 @@
+{
+  "name": "js-cli-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/cli.mjs",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx src/cli.js",
+    "bundle": "rollup -c",
+    "compile": "node scripts/compile.js"
+  },
+  "keywords": [
+    "ink",
+    "cli",
+    "template"
+  ],
+  "author": "HerozDotExe",
+  "license": "ISC",
+  "dependencies": {
+    "ink": "^4.4.1",
+    "ink-big-text": "^2.0.0",
+    "ink-gradient": "^3.0.0",
+    "ink-use-stdout-dimensions": "^1.0.5",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/preset-react": "^7.23.3",
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "eslint": "^8.0.1",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.33.2",
+    "nexe": "4.0.0-rc.4",
+    "react-devtools": "^5.0.0",
+    "rollup": "^4.10.0",
+    "rollup-plugin-copy": "^3.5.0",
+    "tsx": "^4.7.1"
+  }
+}
