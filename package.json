@@ -15,7 +15,7 @@
     "template"
   ],
   "author": "HerozDotExe",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "ink": "^4.4.1",
     "ink-big-text": "^2.0.0",
