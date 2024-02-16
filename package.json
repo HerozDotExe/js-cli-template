@@ -1,7 +1,7 @@
 {
   "name": "js-cli-template",
   "version": "1.0.0",
-  "description": "This project is a template for making cli in javascript with nodejs, nexe, rollup and ink. ",
+  "description": "This project is a template for making cli in javascript with nodejs, nexe, rollup and ink.",
   "main": "dist/cli.mjs",
   "type": "module",
   "scripts": {
